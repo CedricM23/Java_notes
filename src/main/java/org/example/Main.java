@@ -9,7 +9,7 @@ import java.util.ArrayList;
 public class Main {
     public static void main(String[] args) {
 
-        //init lists
+        //Instantiating a list
         List<String> names = new ArrayList<>();
         List<LocalDate> dates = new ArrayList<LocalDate>();
         List<Integer> amounts = new ArrayList<>();
